@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css?family=Iceland');
+
+.mainbg { 
+    /* The image used */
+    background-image: url('../img/bg.jpg');
+     
+    /* Full height */
+    height: 91vh; 
+    /* Center and scale the image nicely */
+    /* background-position: center; */
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  #title1{
+    font-family: 'Iceland', cursive;
+
+  }
+  .overlay{position: fixed;
+      width:100%;
+    height: 100vh;
+    top: 0;
+    bottom: 0;
+    left:0;
+    right: 0;
+    background-color: rgba(0, 0, 0,0.6);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+  }
+.lead{
+    color: white;
+}
+.display-3{
+    color: whitesmoke;
+    font-weight: bold;
+}
+body,html{margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow-x: hidden;
+    background: linear-gradient(to right, rgb(28, 146, 210), rgb(242, 252, 254));
+}
+.navwrap{
+   
+  
+    z-index: 1000;
+}
+
+.nav-link{font-weight: 200;
+    color: black!important;
+}
+nav{
+    background-color:rgba(255,255,255,0.8);
+}
+.headingtag{position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    z-index: 1000000;
+}
