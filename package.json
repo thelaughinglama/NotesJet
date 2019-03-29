@@ -1,12 +1,12 @@
 {
-  "name": "vidjot",
+  "name": "Notes",
   "version": "1.0.0",
   "description": "App to create video ideas",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
-  "author": "Brad Traversy",
+  "author": "Prashant Joshi",
   "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",
