@@ -22,7 +22,7 @@ const db=require('./config/database')
 // Map global promise - get rid of warning
 mongoose.Promise = global.Promise;
 // Connect to mongoose
-mongoose.connect('db.mongoURI', {
+mongoose.connect('mongodb://<ohduck>:<ohduck1>@ds117701.mlab.com:17701/notes-jet', {
   useMongoClient: true
 })
   .then(() => console.log(' Connected...'))
