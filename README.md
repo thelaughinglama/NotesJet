@@ -1,4 +1,2 @@
 # NotesJet
-This Node/express based app tell you whether the entered username is already taken.(For github and competitve programming websites).<br>
-Supported Sites: (Github,HackerEarth , HackerRank,Codechef,Topcoder,Codeforces,)
-
+A Node/Express based portal for anyone to jot down important things/notes and access them from any device anywhere.
