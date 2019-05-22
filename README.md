@@ -1,7 +1,4 @@
 # NotesJet
-Your local machine must have nodejs and mongodb installed to run this webapp. 
-To run this app on your machine:-<br>
+This Node/express based app tell you whether the entered username is already taken.(For github and competitve programming websites).<br>
+Supported Sites: (Github,HackerEarth , HackerRank,Codechef,Topcoder,Codeforces,)
 
-npm install<br>
-npm start<br>
-WebApp will open on http://localhost:5000
