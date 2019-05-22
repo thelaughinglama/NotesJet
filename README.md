@@ -1,7 +1,2 @@
 # NotesJet
-Your local machine must have nodejs and mongodb installed to run this webapp. 
-To run this app on your machine:-<br>
-
-npm install<br>
-npm start<br>
-WebApp will open on http://localhost:5000
+A Node/Express based portal for anyone to jot down important things/notes and access them from any device anywhere.
